@@ -1,0 +1,37 @@
+
+h
+java:S1192j"MDefine a constant instead of duplicating this literal "operatorList" 5 times.(ÇİàÒøÿÿÿÿ
+k
+java:S1192µ"MDefine a constant instead of duplicating this literal "errorMessage" 4 times.(ÆÃ«ÿ8ĞúÆá÷1
+l
+java:S1192u"VDefine a constant instead of duplicating this literal "chargePolicyParameter" 3 times.(»‰¹Í
+r
+java:S1192Å"ODefine a constant instead of duplicating this literal "successMessage" 4 times.(¿”Ïòøÿÿÿÿ8ÑúÆá÷1
+c
+java:S1192s"MDefine a constant instead of duplicating this literal "chargePolicy" 7 times.(û®û
+p
+java:S1192E"SDefine a constant instead of duplicating this literal "chargePoliciesPerm" 3 times.(Óä˜Ã8ÒúÆá÷1
+c
+java:S1192k"HDefine a constant instead of duplicating this literal "charges" 5 times.(€‘«ºüÿÿÿÿ
+n
+java:S1192"SDefine a constant instead of duplicating this literal "charge-policy-form" 6 times.(ÊÑË“şÿÿÿÿ
+b
+java:S1124*"EReorder the modifiers to comply with the Java Language Specification.(³¢”8ûÆá÷1
+Z
+java:S1854Œ"<Remove this useless assignment to local variable "username".(›³ÂÈ8¡ûÆá÷1
+K
+java:S1481Œ"-Remove this unused "username" local variable.(›³ÂÈ8¥ûÆá÷1
+t
+java:S1128	"RRemove this unused import 'org.nucleus.exception.PolicyCodeAlreadyExistException'.(äº½€şÿÿÿÿ8ÍûÆá÷1
+n
+java:S1128"LRemove this unused import 'org.nucleus.service.ChargePolicyTempServiceImpl'.(‡äÉ‚üÿÿÿÿ8ÎûÆá÷1
+`
+java:S1128"CRemove this unused import 'org.nucleus.utility.enums.RecordStatus'.(¤—øª8ÏûÆá÷1
+G
+java:S1128"*Remove this unused import 'java.sql.Date'.(ÙÀ½Ê8ÏûÆá÷1
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8ĞûÆá÷1
+Z
+java:S1128 "8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ÑûÆá÷1
+U
+java:S1068'"9Remove this unused "chargePolicyConvertor" private field.(’¥¦Q8ğûÆá÷1

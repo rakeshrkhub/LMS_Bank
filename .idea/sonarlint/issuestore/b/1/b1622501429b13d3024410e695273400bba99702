@@ -1,0 +1,8 @@
+
+r
+java:S11921"PDefine a constant instead of duplicating this literal "loanApplication" 3 times.(òŒÅùÿÿÿÿÿ8Ôïæ³ø1
+v
+java:S1192J"`Define a constant instead of duplicating this literal "redirect:view-loan-applications" 3 times.(á´½Ù
+b
+java:S1117>"ERename "loanApplicationId" which hides the field declared at line 39.(˜Œ¥¤8Ñðæ³ø1
+@	java:S106]"+Replace this use of System.out by a logger.(ŽÈÚ‘

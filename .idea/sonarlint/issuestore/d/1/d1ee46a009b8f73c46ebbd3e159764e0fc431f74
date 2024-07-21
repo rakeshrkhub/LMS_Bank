@@ -1,0 +1,13 @@
+
+†
+java:S1192L"pDefine a constant instead of duplicating this literal "forward:../../views/checker-repaymentpolicy.jsp" 3 times.(Í£ÅË
+h
+java:S1192"RDefine a constant instead of duplicating this literal "repaymentPolicies" 4 times.(ç°Öã
+c
+java:S11923"HDefine a constant instead of duplicating this literal "message" 6 times.(¤“õ™ûÿÿÿÿ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ
+E	java:S106"+Replace this use of System.out by a logger.(ú‚›ùýÿÿÿÿ
+C	java:S108d")Either remove or fill this block of code.(­Ž‚±ûÿÿÿÿ

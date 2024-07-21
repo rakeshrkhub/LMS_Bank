@@ -1,0 +1,49 @@
+
+a
+java:S1192\"FDefine a constant instead of duplicating this literal "saved" 4 times.(§Ù÷Úúÿÿÿÿ
+k
+java:S11928"PDefine a constant instead of duplicating this literal "repaymentPolicy" 4 times.(ïõµêÿÿÿÿÿ
+‹
+java:S1192'"uDefine a constant instead of duplicating this literal "forward:../views/maker-detailforRepayementPolicy.jsp" 3 times.(ˆÊç
+h
+java:S1192&"RDefine a constant instead of duplicating this literal "repaymentPolicies" 7 times.(€ªÈ
+_
+java:S1192="IDefine a constant instead of duplicating this literal "message" 18 times.(â×ò¡
+
+java:S1192¨"xDefine a constant instead of duplicating this literal "forward:../../views/maker-detailforRepayementPolicy.jsp" 4 times.(’ê ­
+F
+java:S1066¿"/Merge this if statement with the enclosing one.(ô“•Õ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄŞ
+h
+java:S3776D"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(“öÃ§
+@	java:S106I"+Replace this use of System.out by a logger.(ûÊ’÷
+E	java:S106g"+Replace this use of System.out by a logger.(­ì²”ÿÿÿÿÿ
+@	java:S106i"+Replace this use of System.out by a logger.(šÑùÙ
+E	java:S106k"+Replace this use of System.out by a logger.(ƒÃ§ïıÿÿÿÿ
+E	java:S106n"+Replace this use of System.out by a logger.(„‚ôÏúÿÿÿÿ
+E	java:S106p"+Replace this use of System.out by a logger.(§şÍµøÿÿÿÿ
+E	java:S106s"+Replace this use of System.out by a logger.(­‚‰õûÿÿÿÿ
+E	java:S106v"+Replace this use of System.out by a logger.(¸®¡ÿÿÿÿÿ
+@	java:S106w"+Replace this use of System.out by a logger.(ºÙ„½
+B
+java:S1125x"'Remove the unnecessary boolean literal.(‚ÇåÓüÿÿÿÿ
+@	java:S106z"+Replace this use of System.out by a logger.(ò¶è€
+E	java:S106{"+Replace this use of System.out by a logger.(Õó§±ÿÿÿÿÿ
+F	java:S106ƒ"+Replace this use of System.out by a logger.(èÍ‹æıÿÿÿÿ
+A	java:S106Š"+Replace this use of System.out by a logger.(à¸«
+F	java:S106”"+Replace this use of System.out by a logger.(´ğ«şÿÿÿÿ
+F	java:S106£"+Replace this use of System.out by a logger.(ÎÒ°¬øÿÿÿÿ
+i
+java:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Ë¬‹­
+b
+java:S1854è"FRemove this useless assignment to local variable "repaymentPolicyDTO".(Å›ÓÛúÿÿÿÿ
+A	java:S106Ë"+Replace this use of System.out by a logger.(öØÈ¢
+S
+java:S1481è"7Remove this unused "repaymentPolicyDTO" local variable.(Å›ÓÛúÿÿÿÿ
+i
+java:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ô­ïî
+İ
+java:S6541Ã"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 95 to 64, Complexity from 16 to 14, Nesting Level from 4 to 2, Number of Variables from 11 to 6.(Ë¬‹­

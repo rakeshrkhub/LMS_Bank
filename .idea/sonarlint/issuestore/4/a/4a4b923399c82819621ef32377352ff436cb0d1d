@@ -1,0 +1,14 @@
+
+D
+java:S2440".Remove this instantiation of "MetaDataMapper".(ÉëÑá
+K
+java:S2209"5Change this instance-reference to a static reference.(ª—‹Ò
+V	java:S125'"<This block of commented-out lines of code should be removed.(”¢æòüÿÿÿÿ
+d
+java:S1854K"IRemove this useless assignment to local variable "receivablePayableTemp".(âÎ§îøÿÿÿÿ
+U
+java:S1481K":Remove this unused "receivablePayableTemp" local variable.(âÎ§îøÿÿÿÿ
+D
+java:S2440L".Remove this instantiation of "MetaDataMapper".(ÉëÑá
+K
+java:S2209["5Change this instance-reference to a static reference.(„Ì¡„
