@@ -64,7 +64,8 @@
     "last_opened_file_path": "F:/Project/LMS_Bank",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Markdown"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -208,5 +209,9 @@
     <MESSAGE value="Improve loan product form" />
     <MESSAGE value="Final DataTable styling added" />
     <option name="LAST_COMMIT_MESSAGE" value="Final DataTable styling added" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
