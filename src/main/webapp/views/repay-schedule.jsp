@@ -1,5 +1,5 @@
 <%@ page import="java.util.List" %>
-<%@ page import="org.nucleus.dto.RepayScheduleDTO" %>
+<%@ page import="org.project.dto.RepayScheduleDTO" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags"%>

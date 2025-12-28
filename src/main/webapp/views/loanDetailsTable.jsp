@@ -1,5 +1,5 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
-<%@ page import="org.nucleus.dto.LoanApplicationDTO, java.util.*" isELIgnored="false"%>
+<%@ page import="org.project.dto.LoanApplicationDTO, java.util.*" isELIgnored="false"%>
 <!DOCTYPE html>
 <html lang="en">
 <head>

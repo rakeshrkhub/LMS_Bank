@@ -2,7 +2,7 @@ package entity;
 
 import org.junit.Assert;
 import org.junit.Test;
-import org.nucleus.utility.AllocationCalculation;
+import org.project.utility.AllocationCalculation;
 
 import java.util.Optional;
 

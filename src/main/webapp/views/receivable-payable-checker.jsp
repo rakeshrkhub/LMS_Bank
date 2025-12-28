@@ -1,4 +1,4 @@
-<%@ page import="java.util.*, org.nucleus.dto.ReceivablePayableDTO, org.nucleus.dto.LoanAccountDTO" %>
+<%@ page import="java.util.*, org.project.dto.ReceivablePayableDTO, org.project.dto.LoanAccountDTO" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ page isELIgnored="false" contentType="text/html; charset=UTF-8" %>
 

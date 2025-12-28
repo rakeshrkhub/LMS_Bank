@@ -32,7 +32,7 @@ ${message}
 
     </div>
 
-<!-- Ashish Goyal -->
+
 
         <form:form action="edit-approvedstate-form" method="post" modelAttribute="stateDto" style="padding-top:5px;">
             <div class="row">

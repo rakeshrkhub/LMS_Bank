@@ -1,6 +1,6 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
-<%@ page import="org.nucleus.entity.permanent.EligibilityPolicyParameterDefinition, java.util.*" isELIgnored="false"%>
+<%@ page import="org.project.entity.permanent.EligibilityPolicyParameterDefinition, java.util.*" isELIgnored="false"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <!DOCTYPE html>
 <html lang="en">

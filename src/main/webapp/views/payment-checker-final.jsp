@@ -129,7 +129,7 @@
     <%@ taglib uri="http://www.springframework.org/tags" prefix="spring" %>
     <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
     <%@ page isELIgnored="false" %>
-    <%@ page import="org.nucleus.dto.PaymentDTO, java.util.*" %>
+    <%@ page import="org.project.dto.PaymentDTO, java.util.*" %>
 </head>
 <body>
 <div class="container">

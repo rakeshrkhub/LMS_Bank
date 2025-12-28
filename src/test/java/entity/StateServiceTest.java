@@ -5,12 +5,12 @@ import org.junit.runner.RunWith;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.junit.MockitoJUnitRunner;
-import org.nucleus.dao.address.StateDAO;
-import org.nucleus.dao.address.StateTempDAO;
-import org.nucleus.dto.CountryDTO;
-import org.nucleus.dto.StateDTO;
-import org.nucleus.service.address.StateServiceImpl;
-import org.nucleus.service.address.StateTempServiceImpl;
+import org.project.dao.address.StateDAO;
+import org.project.dao.address.StateTempDAO;
+import org.project.dto.CountryDTO;
+import org.project.dto.StateDTO;
+import org.project.service.address.StateServiceImpl;
+import org.project.service.address.StateTempServiceImpl;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;

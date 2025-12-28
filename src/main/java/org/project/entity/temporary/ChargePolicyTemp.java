@@ -1,0 +1,23 @@
+package org.project.entity.temporary;
+
+import lombok.Data;
+import org.project.entity.meta.TempMetaData;
+
+import javax.persistence.*;
+import java.util.List;
+
+@Data
+@Entity
+@Table(name = "CHARGE_POLICY_TEMP_TBL_BATCH_6")
+public class ChargePolicyTemp {
+    @Id
+    private String policyCode;
+    private String policyName;
+
+    @OneToMany(cascade = CascadeType.ALL, fetch = FetchType.EAGER)
+    @JoinColumn(name = "policy_id")
+    private List<ChargePolicyParameterTemp> chargePolicyParameterTempList;
+
+    @Embedded
+    private TempMetaData tempMetaData;
+}

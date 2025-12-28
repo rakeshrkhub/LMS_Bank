@@ -77,11 +77,11 @@
 <div class="footer-basic">
     <footer>
         <ul class="list-inline">
-            <li class="list-inline-item"><a href="https://www.nucleussoftware.com/">Home</a></li>
-            <li class="list-inline-item"><a href="https://www.nucleussoftware.com/services/">Services</a></li>
-            <li class="list-inline-item"><a href="https://www.nucleussoftware.com/about-us/">About</a></li>
-            <li class="list-inline-item"><a href="https://www.nucleussoftware.com/terms-and-conditions/">Terms</a></li>
-            <li class="list-inline-item"><a href="https://www.nucleussoftware.com/privacy-policy/">Privacy Policy</a></li>
+            <li class="list-inline-item"><a href="https://www.softwareproject.com/">Home</a></li>
+            <li class="list-inline-item"><a href="https://www.softwareproject.com/services/">Services</a></li>
+            <li class="list-inline-item"><a href="https://www.softwareproject.com/about-us/">About</a></li>
+            <li class="list-inline-item"><a href="https://www.softwareproject.com/terms-and-conditions/">Terms</a></li>
+            <li class="list-inline-item"><a href="https://www.softwareproject.com/privacy-policy/">Privacy Policy</a></li>
         </ul>
         <p class="copyright">Created by Rakesh &copy; 2018</p>
     </footer>

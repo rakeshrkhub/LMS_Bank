@@ -3,7 +3,7 @@
 <%@ taglib uri="http://www.springframework.org/tags/form" prefix="form" %>
 <%@ taglib uri="http://www.springframework.org/tags" prefix="spring" %>
 
-<!--Unzala-->
+
 
 <!DOCTYPE html>
 <html xml:lang>
@@ -33,7 +33,7 @@
 </head>
 <body>
 <%@ include file="navbar.jsp"%>
-<!--Unzala-->
+
     <div class="container my-4 card shadow">
         ${message}
             ${approval}

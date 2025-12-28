@@ -2,7 +2,7 @@ package entity;
 
 import org.junit.Assert;
 import org.junit.Test;
-import org.nucleus.utility.EmiUtility;
+import org.project.utility.EmiUtility;
 
 public class EmiCalculationTest {
     EmiUtility emiUtility= new EmiUtility();
